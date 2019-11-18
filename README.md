@@ -1,5 +1,5 @@
 # Lab 5 - Follow Bot
-Lab 5 for [COMSW4733 Computational Aspects of Robotics](http://www.cs.columbia.edu/~allen/F18/index.html) at Columbia University (Instructor: [Prof. Peter Allen](http://www.cs.columbia.edu/~allen/)).
+Lab 5 for [COMSW4733 Computational Aspects of Robotics](http://www.cs.columbia.edu/~allen/F19/index.html) at Columbia University (Instructor: [Prof. Peter Allen](http://www.cs.columbia.edu/~allen/)).
 
 ## Introduction
 In this lab, you are required to make the turtlebot follow a yellow track and action differently at intersections based on visual information. This is simulated in a Gazebo simulator.
